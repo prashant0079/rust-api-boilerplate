@@ -10,11 +10,7 @@ A boilerplate project for building APIs with [Axum](https://github.com/tokio-rs/
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
   - [Testing](#testing)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Features
 
