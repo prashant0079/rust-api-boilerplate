@@ -18,12 +18,12 @@ A boilerplate project for building APIs with [Axum](https://github.com/tokio-rs/
 - [x] Implemented logging.
 - [x] Implemented Middlewares
 - [x] Implemented auth middleware and cookies
-- [] Implemented authentication and authorization schemes
-- [] Structured logging with `tracing`
-- [] Environment-based configuration with `config` and `dotenv`
-- [] Graceful shutdown
+- [ ] Implemented authentication and authorization schemes
+- [ ] Structured logging with `tracing`
+- [ ] Environment-based configuration with `config` and `dotenv`
+- [ ] Graceful shutdown
 - [x] Unit and integration tests
-- [] Docker support
+- [ ] Docker support
 
 ## Getting Started
 
